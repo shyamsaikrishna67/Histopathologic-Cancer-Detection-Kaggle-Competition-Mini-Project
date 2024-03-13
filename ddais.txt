@@ -1,0 +1,13 @@
+This text provides detailed instructions for a mini-project involving participation in a Kaggle competition focused on Histopathologic Cancer Detection. The project requires three deliverables:
+
+1. Deliverable 1: A Jupyter notebook containing a description of the problem/data, exploratory data analysis (EDA) procedure, model building and training analysis, results, and discussion/conclusion. If the work becomes too large for one notebook, multiple notebooks or scripts in a GitHub repository can be used.
+
+2. Deliverable 2: A public project GitHub repository with the work, including the GitHub repo URL in the notebook/report.
+
+3. Deliverable 3: A screenshot of the position on the Kaggle competition leaderboard for the top-performing model.
+
+The project is worth a total of 125 points and emphasizes the quality and depth of analysis over achieving a top score on the Kaggle challenge. Peer review is an essential component of the project to gain hands-on experience and learn from others' approaches.
+
+The project includes components such as a brief description of the problem and data, exploratory data analysis (EDA), model architecture description, results and analysis, conclusion, and production of high-quality deliverables including a Jupyter notebook report, GitHub repository, and a screenshot of the Kaggle leaderboard.
+
+It is important to follow the rubrics provided for each deliverable to ensure all parts are included for the desired grade. Additionally, using GitHub for version control is recommended for collaboration and showcasing the codebase.
